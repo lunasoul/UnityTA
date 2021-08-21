@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6b4e73859058db3479e79bcc76d30992
+guid: c9ba72e8792bf0849aad9bf5c5a06fd0
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
@@ -60,7 +60,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
-    normalSmoothAngle: 60
+    normalSmoothAngle: 0
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
@@ -87,7 +87,7 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   avatarSetup: 0
   additionalBone: 0
