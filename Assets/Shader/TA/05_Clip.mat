@@ -29,7 +29,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _CullMode: 2
-    - _Cutout: 0.47
+    - _Cutout: 0.37
     - _LunaFloat: 0
     - _LunaRange: 5
     m_Colors:

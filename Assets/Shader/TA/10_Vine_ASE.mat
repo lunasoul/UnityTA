@@ -10,7 +10,7 @@ Material:
   m_Name: 10_Vine_ASE
   m_Shader: {fileID: 4800000, guid: 982dffe029617e741b62f60d4d325f59, type: 3}
   m_ShaderKeywords: 
-  m_LightmapFlags: 4
+  m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _Expand: 0.7
+    - _Expand: 0.48
     - _Float0: 0.72
     - __dirty: 0
     m_Colors: []
